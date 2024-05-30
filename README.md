@@ -51,11 +51,11 @@ console.log(resume);
             padding: 20px;
         }
     </style>
-</head>
-<body>
-    <div id="resume"></div>
+</hеad>
+<bоdy>
+    <div id="resume"></dіv>
     
-    <script>
+    <scrіpt>
         const resume = `
   👋 Hi, I’m 𝓐𝓻𝓽𝔂. I'm a Python, JavaScript, and C# developer, as well as a Blender developer.
     I'm from Kherson, Ukraine.
@@ -90,6 +90,6 @@ console.log(resume);
 
         
         document.getElementById("resume").innerText = resume;
-    </script>
+    </scrіpt>
 </body>
 </html>
