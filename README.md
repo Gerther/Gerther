@@ -26,7 +26,6 @@ const resume = `
 
 📧 Contact:
   - Email: arolton.didran@gmail.com
-  - LinkedIn: linkedin.com/in/artydeveloper
   - Discord: arty4509
 
 I'm passionate about technology and constantly learning new things. Let's connect!
