@@ -23,6 +23,7 @@ const resume = `
 📧 Contact:
   - Email: arolton.didran@gmail.com
   - Discord: arty4509
+  - telegram: @EbIlancik
 
 I'm passionate about technology and constantly learning new things. Let's connect!
   `;
